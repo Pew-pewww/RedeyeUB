@@ -1,7 +1,7 @@
 <h1 align="center">❤️ 🅁🄴🄳🄴🅈🄴 ❤️</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7b3fe6a6a6945ab4d41da.jpg">
+  <img src="https://telegra.ph/file/e0f48a315f8e734f2bfa7.png">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
